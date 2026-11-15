@@ -1,3 +1,8 @@
+# Doing this in Excel would be easier for smaller types of data because youre able to see and edit everything directly. Python is better for automating repetitive tasks and working with larger amouunts of data without having to do everything.
+# A Business could use an append-mode log to keep track of daily sales. Append mode is useful because it adds new information without deleting previous records, allowing the business to look back at past sales.
+
+
+
 import csv
 
 SALES_FILE = "data/sales.csv"
